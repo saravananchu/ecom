@@ -1,0 +1,52 @@
+.im{
+    width: 500px;
+    height: 500px;
+}
+.card{
+    width: 550px;
+    margin-left: -50px;
+}
+.left{
+    width: 40%;
+}
+.right{
+    width: 40%;
+    transform: translateX(-150px);
+}
+.pro{
+    display: flex;
+    justify-content:left;
+}
+
+.d-flex p{
+    margin-left: 20px;
+    align-items: center;
+
+}
+
+.btn{
+    background-color: #3286ee;
+    color: white;
+}
+
+.he{
+    text-align: center;
+}
+
+.ret{
+    display: flex;
+    
+    flex-wrap: wrap;
+}
+
+.ret .card{
+    width: 250px;
+    margin-right: 50px;
+    transform: translateX(50px);
+    margin-top: 50px;
+}
+
+.ret .card .card-body .im{
+    width: 200px;
+    height: 200px;
+}

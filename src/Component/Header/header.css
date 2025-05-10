@@ -1,0 +1,52 @@
+.logo    {
+    width: 150px;
+    height: 40px;
+}
+.headers{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+.right a{
+    text-decoration: none;
+margin-right: 20px;
+color: black;
+}
+
+.btn-group .ca{
+    border-bottom-left-radius: 20%;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0%;
+
+}
+.btn-group .ca{
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0%;
+    width: 100px;
+}
+.btn-group .lo{
+    border-bottom-left-radius: 0%;
+    border-top-left-radius: 0%;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    width: 100px;
+}
+
+.prosd{
+    display: flex;
+}
+
+.profs{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.prosd p{
+    transform: translateY(10px);
+    margin-right: 20px;
+}

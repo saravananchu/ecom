@@ -1,0 +1,20 @@
+.iam{
+    width:100px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+td{
+    margin-top: -10px;
+    transform: translateY(-10px);
+    align-items: center;
+}
+tbody tr td .a{
+    transform: translateY(44px);
+    margin-top: 10px;
+}
+
+.btn{
+    background-color: #3286ee;
+    color: white;
+}

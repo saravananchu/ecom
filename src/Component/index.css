@@ -1,0 +1,76 @@
+img{
+    width: 100%;
+}
+
+.carousel {
+    width: 100%;
+
+}
+
+.carousel-control-prev-icon{
+    background-color: black;
+    border-radius: 50%;
+}
+.carousel-control-next-icon{
+    background-color: black;
+    border-radius: 50%;
+}
+
+.view{
+    display: flex;
+    justify-content: space-between;
+    background-color: #3286ee;
+    color: white;
+    align-items: end;
+    padding-top: 10px;
+    
+}
+.co{
+    background-color: #3286ee;
+    display: flex;
+    align-items: end;
+}
+
+.head{
+    text-align: center;
+}
+
+.mid-a{
+    display: flex;
+}
+
+.pay{
+    display: block;
+    text-align: center;
+    padding: 5px;
+}
+
+.ims{
+    width: 150px;
+    height: 150px;
+}
+
+
+.product{
+    display: flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+}
+
+.product .card{
+    width: 200px;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+
+.fot{
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    z-index: 3;
+}
+
+.una{
+    height: 50px;
+    overflow: hidden;
+}
