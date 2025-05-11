@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/ecom/static/js/main.5d5090a6.js",
+    "index.html": "/ecom/index.html",
+    "main.5d5090a6.js.map": "/ecom/static/js/main.5d5090a6.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5d5090a6.js"
+  ]
+}
